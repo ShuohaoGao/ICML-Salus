@@ -1,0 +1,10 @@
+{
+    "Qwen3-32B": {
+        "API_key": "your-api-key-here",
+        "base_URL": "http://localhost:8011/v1"
+    },
+    "deepseek-v4-flash": {
+        "API_key": "your-api-key-here",
+        "base_URL": "https://api.deepseek.com"
+    }
+}
