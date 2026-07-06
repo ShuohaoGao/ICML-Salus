@@ -52,6 +52,13 @@ as soon as the privacy-removal process is complete.
 
 ## Citation
 
-If you use this repository, please cite the ICML paper associated with the
-project. Citation information will be added after the official proceedings entry
-is available.
+If you use this repository, please cite our paper:
+
+```bibtex
+@inproceedings{gao2026salus,
+  title={Salus: Strategic Diagnostic Testing for Complex Diagnosis via Multi-Agent Reinforcement Learning},
+  author={Gao, Shuohao and Chen, Xuanzhong and Luo, Lingxiao and Ding, Zilin and Han, Rong and Jiang, Rui and Chen, Ting},
+  booktitle={Forty-third International Conference on Machine Learning},
+  year={2026}
+}
+```
